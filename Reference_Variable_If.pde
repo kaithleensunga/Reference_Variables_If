@@ -9,7 +9,7 @@ void setup() {
 
 void draw() {
  
-  // outline
+// outline
   fill(0);
   ellipse(circleX,100,233,133);
   
@@ -69,5 +69,4 @@ if (circleX > 600){
 if (circleX < 0){
   speed = 10;
 }
-
 }
