@@ -4,11 +4,11 @@ float speed = 10;
 
 void setup() {
   size(600, 600);
-   background(255);
+  
 }
 
 void draw() {
- 
+ background(255);
 // outline
   fill(0);
   ellipse(circleX,100,233,133);
